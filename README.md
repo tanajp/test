@@ -155,4 +155,4 @@ webサーバーの立ち上げを行う。
 <br>
 
 ## 動作イメージ
-![IMG_2765](https://user-images.githubusercontent.com/50686226/71975413-40dd2600-3257-11ea-9f10-10efbc393ed9.jpg)
+<img src="https://user-images.githubusercontent.com/50686226/71975413-40dd2600-3257-11ea-9f10-10efbc393ed9.jpg" width = 400>
