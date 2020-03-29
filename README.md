@@ -25,7 +25,6 @@ Flask + gunicorn
 ソースコード
 
 ```python
-import os
 import sys
 from argparse import ArgumentParser
 
